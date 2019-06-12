@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 @Controller
 public class Mycontroller {
-
+//aa
 	@RequestMapping("list")
 	@ResponseBody
 	public Object list() {
